@@ -1,6 +1,6 @@
 # Jannis Ebling — AI Software Architect | Generative AI & Agentic Systems
 
-**Düsseldorf, Germany** · [Website](https://jannisebling.github.io/) · [LinkedIn](https://www.linkedin.com/in/jannis-ebling) · [ORCID](https://orcid.org/0009-0000-6280-1733) · [QuantStudio.net](https://quantstudio.net)
+**Düsseldorf, Germany** · [CV (PDF)](https://jannisebling.github.io/Jannis_Ebling_CV.pdf) · [Website](https://jannisebling.github.io/) · [LinkedIn](https://www.linkedin.com/in/jannis-ebling) · [ORCID](https://orcid.org/0009-0000-6280-1733) · [QuantStudio.net](https://quantstudio.net)
 
 AI Software Architect with 4+ years of experience engineering production GenAI platforms, multi-agent workflows, and LLMOps infrastructure on Microsoft Azure. Specialized in deploying reliable, evaluated, and deterministic LLM systems in regulated enterprise environments (**EU AI Act**, **GDPR Art. 22**, **DORA**, **Solvency II**), bridging software engineering rigor (Python, Rust, C++, DDD, TDD) with applied machine learning and numerical physics (**M.Sc., Hochschule Düsseldorf**).
 
