@@ -2,7 +2,7 @@
 
 **Düsseldorf, Germany** · [LinkedIn](https://www.linkedin.com/in/jannis-ebling) · [Medium](https://medium.com/@jannis.ebling) · [QuantStudio.net](https://quantstudio.net)
 
-AI Software Architect with 4+ years of experience engineering production GenAI platforms, multi-agent workflows, and LLMOps infrastructure on Microsoft Azure. Specialized in deploying evaluated, compliant, and deterministic LLM systems in regulated enterprise environments (**EU AI Act**, **GDPR Art. 22**, **DORA**, **Solvency II**), bridging software engineering rigor (Python, Rust, C++, DDD, TDD) with applied machine learning and numerical modeling (**M.Sc., Hochschule Düsseldorf**).
+AI Solution Architect with 4+ years of experience engineering production GenAI platforms, multi-agent workflows, and LLMOps infrastructure on Microsoft Azure. Specialized in deploying evaluated, compliant, and deterministic LLM systems in regulated enterprise environments (**EU AI Act**, **GDPR Art. 22**, **DORA**, **Solvency II**), bridging software engineering rigor (Python, Rust, C++, DDD, TDD) with applied machine learning and numerical modeling (**M.Sc., Hochschule Düsseldorf**).
 
 ---
 
